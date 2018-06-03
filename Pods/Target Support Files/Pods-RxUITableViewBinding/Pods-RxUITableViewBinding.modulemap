@@ -1,0 +1,6 @@
+framework module Pods_RxUITableViewBinding {
+  umbrella header "Pods-RxUITableViewBinding-umbrella.h"
+
+  export *
+  module * { export * }
+}
